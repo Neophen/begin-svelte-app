@@ -5,6 +5,7 @@ earth-0qy
 
 @http
 get /api
+get /api/login
 
 @tables
 data

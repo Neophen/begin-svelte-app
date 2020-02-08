@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-api-login",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
